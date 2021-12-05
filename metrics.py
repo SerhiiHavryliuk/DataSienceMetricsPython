@@ -22,7 +22,7 @@ import itertools
 
 # Serhii: Загружаем файл с даннными
 print("Импорт файла!")
-df = pd.read_csv('dataset-new.csv')
+df = pd.read_csv('dataset.csv')
 
 # Serhii: Смотрим первых 5 строк данных
 print("Первых 5 строк после загрузки файла!")
